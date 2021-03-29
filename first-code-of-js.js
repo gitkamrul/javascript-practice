@@ -13,3 +13,5 @@ console.log(9+9);
 
 // string and number sub 
 console.log("9"+9);
+
+// this code is sample exaple 
