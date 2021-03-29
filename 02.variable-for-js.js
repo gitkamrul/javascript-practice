@@ -15,8 +15,12 @@ console.log(fname + "creating javascript tutirial");
 
 
 
+
+
 // Error for javascript programming if print after variable declaire
 
-// var fname = "kamrul hasan ";
-// var age = 20;
+/* 
+var fname = "kamrul hasan ";
+ var age = 20;
+ */
 
