@@ -15,3 +15,5 @@ function getFee(isMember) {
  
  //console.log(getFee(null));
  // expected output: "$10.00"
+
+ 
