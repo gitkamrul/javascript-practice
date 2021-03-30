@@ -3,7 +3,7 @@
 
 
 function getVowels(str) {
-   const m = str.match(/[aeiou]gi);
+   const m = str.match([aeiou])
    if (m === null) {
      return 0;
    }
