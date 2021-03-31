@@ -21,6 +21,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 // Output 
 
+/*
 Element is 0 : 10
 Element is 0 : 20
 Element is 0 : 30
@@ -31,6 +32,8 @@ Element is 1 : 21
 Element is 1 : 31
 Element is 1 : 41
 Element is 1 : 51
+
+*/
 
 
 
