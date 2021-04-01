@@ -17,5 +17,3 @@ var result = arr.find(function(value){
 
 
 
-
-//   33.Find-and-FindIndex-method-function.js

@@ -32,8 +32,6 @@ var persons = [
 
 
 
-// 34.sort-some-every-method-function.js
-
 
 
 
